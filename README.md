@@ -37,7 +37,8 @@ Create rate based visualizations by plotting data using Tableau. Add map visuali
 
 ### Screenshots:
 
-< put them here >
+final_project/Screen Shot Features.png
+      
 
 ### Assumptions made/Challenges encountered:
 
