@@ -28,7 +28,7 @@ Create rate based visualizations by plotting data using Tableau. Add map visuali
 
 ## **[Tableau Visualizations](https://public.tableau.com/profile/ellen.guerrero#!/vizhome/NYCTrafficData/Story1?publish=yes)**
 
-<<Build machine learning models to determine if we can use them to determine likelihood of injury/death based on controllable factors, temperal factors, and vehicular factors.>>
+Build machine learning models to determine if we can use them to determine likelihood of injury/death based on controllable factors, temperal factors, and vehicular factors.
 
 ### Machine Learning Models Attempted:
 
